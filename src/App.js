@@ -12,6 +12,11 @@ function App() {
         
         <a className="Todd" href="https://todnguyen.com/" target="_blank"
           >Todd was here again. HAHA.</a>
+
+        <p className="Katie">  katie says lets git it
+        </p>
+
+
         <a
           className="App-link"
           href="https://reactjs.org"

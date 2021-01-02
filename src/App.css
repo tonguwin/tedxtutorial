@@ -15,6 +15,13 @@
   pointer-events: none;
 }
 
+.Katie {
+  display: flex;
+  font-size: calc(50px + 2vmin);
+  color: #00dd22;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -22,7 +29,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #D3D140;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -33,7 +40,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #0d2bd3;
 }
 
 @keyframes App-logo-spin {
