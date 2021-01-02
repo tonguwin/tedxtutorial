@@ -4,6 +4,18 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.han {
+  color: pink;
+}
+
+.Todd {
+  justify-content: left;
+  align-content: flex-start;
+  color: magenta;
+  transform: skew(15 deg, 15 deg);
+}
+
+
 .App {
   text-align: center;
 }
@@ -13,6 +25,13 @@
   pointer-events: none;
 }
 
+.Katie {
+  display: flex;
+  font-size: calc(50px + 2vmin);
+  color: #00dd22;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -20,7 +39,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #D3D140;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -31,7 +50,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #0d2bd3;
 }
 
 @keyframes App-logo-spin {
