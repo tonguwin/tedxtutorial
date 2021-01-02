@@ -5,6 +5,16 @@
   transform: skew(15 deg, 15 deg);
 }
 
+.annabelle {
+  text-align:left;
+  background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.han {
+  color: pink;
+}
+
 
 .App {
   text-align: center;
@@ -29,7 +39,7 @@
 }
 
 .App-header {
-  background-color: #D3D140;
+  background-color: grey;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
